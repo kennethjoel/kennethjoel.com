@@ -4,6 +4,7 @@ GENERAL
 
 html {
 	overflow-y: scroll;
+	font-family: Helvetica, sans-serif;
 }
 
 nav {
@@ -14,6 +15,10 @@ nav {
 a {
 	text-decoration: none; 
 	margin: 0px 5px; 
+}
+
+a:hover {
+	color: #577492;
 }
 
 h1 {
