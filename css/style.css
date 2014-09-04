@@ -1,6 +1,11 @@
 /**********
 GENERAL
 **********/
+
+html {
+	overflow-y: scroll;
+}
+
 nav {
 	overflow: auto; 
 	margin: 20px;
@@ -17,7 +22,7 @@ h1 {
 }
 
 .wrapper {
-	margin: 0% 20%;  
+	margin: 0% 15%; 
 }
 
 .top-nav { 
@@ -34,6 +39,7 @@ h1 {
 /**********
 RESUME
 **********/
+
 .first-col {
 	float: left; 
 	width: 45%;
