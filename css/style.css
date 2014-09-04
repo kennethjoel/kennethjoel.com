@@ -21,6 +21,10 @@ h1 {
 	text-transform: uppercase;
 }
 
+h2 {
+	text-transform: uppercase; 
+}
+
 .wrapper {
 	margin: 0% 25%; 
 }
