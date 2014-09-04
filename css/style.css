@@ -3,11 +3,17 @@ GENERAL
 **********/
 nav {
 	overflow: auto; 
+	margin: 20px;
 }
 
 a {
 	text-decoration: none; 
 	margin: 0px 5px; 
+}
+
+h1 {
+	font-family: sans-serif; 
+	text-transform: uppercase;
 }
 
 .wrapper {
