@@ -22,7 +22,7 @@ h1 {
 }
 
 .wrapper {
-	margin: 0% 15%; 
+	margin: 0% 25%; 
 }
 
 .top-nav { 
@@ -40,6 +40,19 @@ h1 {
 RESUME
 **********/
 
+.skills-wrap {
+	display: block; 
+	padding: 1.5%;
+	text-align: center; 
+}
+
+.skills { 
+	display: inline-block; 
+	text-align: center;
+	margin: auto;
+	padding: .5%;
+}
+
 .first-col {
 	float: left; 
 	width: 45%;
@@ -52,19 +65,6 @@ RESUME
 	width: 45%; 
 	height: 535px;
 	padding: 2.5%;
-}
-
-.skills-wrap {
-	display: inline-block; 
-	width: 45%; 
-	padding: 1.5%;
-}
-
-.skills { 
-	display: inline-block; 
-	text-align: center;
-	margin: 5px 5px; 
-	padding: .5%;
 }
 
 /**********
@@ -85,8 +85,8 @@ a {
 }
 
 .skills {
-	color: white;
-	background-color: black; 
+	color: black;
+	background-color: white; 
 }
 
 /*
