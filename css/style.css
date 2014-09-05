@@ -9,13 +9,13 @@ html {
 }
 
 nav {
-	overflow: auto; 
-	margin: 20px;
+	overflow: auto;
+	margin: 2%;
 }
 
 a {
 	text-decoration: none; 
-	margin: 0px 5px; 
+	margin: 5px; 
 }
 
 h1 {
@@ -36,6 +36,7 @@ h3 {
 }
 
 .wrapper {
+	width: 50%;
 	margin: 0% 25%; 
 }
 
@@ -44,10 +45,15 @@ h3 {
 	float: right; 
 }
 
+.avatar-container {
+	text-align: center;
+}
+
 .avatar {
 	width: 100px; 
 	height: 100px; 
 	border-radius: 100%; 
+	margin: auto;
 }
 
 /**********
@@ -55,28 +61,23 @@ RESUME
 **********/
 
 .skills-wrap {
-	display: block;
-	text-align: center;  
-	padding: 1.5%;	
+	display: block;  
 }
 
 .skills { 
 	display: inline-block; 
-	text-align: center;
-	margin: auto;
 	padding: .5%;
 }
 
 .first-col {
 	float: left; 
 	width: 45%;  
-	padding: 2.5%; 
+	margin-right: 8%;
 }
 
 .second-col { 
 	display: inline-block;
 	width: 45%; 
-	padding: 2.5%;
 }
 
 .resume-third-header {
