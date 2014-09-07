@@ -1,6 +1,10 @@
 /**********
 GENERAL
 **********/
+	html {
+		background-color: #FFFFFF;
+	}
+
 	a {
 		text-decoration: none
 	}
@@ -44,14 +48,13 @@ RESUME
 		display: block;  
 	}
 
-	.skills { 
+	.skill { 
 		display: inline-block; 
 		padding: .5%;
 	}
 /**********
 COLOR
 **********/
-
 	a {
 		color: inherit;
 	}
@@ -60,9 +63,25 @@ COLOR
 		color: #577492;
 	}
 
-	.skills {
+	h1, h2, h3 {
+		color: #202020;
+	}
+
+	p {
+		color: #303030;
+	}
+
+	.nav-link{
+		color: #202020;
+	}
+
+	.skill {
 		background-color: white; 
-		color: black;	
+		color: #303030;	
+	}
+
+	.symbol {
+		color: #577492;
 	}
 
 	.contact-info {
