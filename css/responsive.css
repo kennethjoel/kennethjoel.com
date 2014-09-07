@@ -1,7 +1,49 @@
-@media screen and (min-width: 480) {
-	
+@media screen and (min-width: 480px) {
+	.wrapper {
+		margin: 0 auto;
+		padding: 0 5%;
+	}
+
+	.top-nav {
+		text-align: center;
+	}
+
+@media screen and (min-width: 768px) {
+	/**********
+	RESUME
+	**********/
+	.first-col {
+		float: left; 
+		width: 45%;  
+		margin-right: 8%;
+	}
+
+	.second-col { 
+		display: inline-block;
+		width: 45%; 
+	}
+
+	.resume-third-header {
+		margin: -.1em;
+	}
+
+	.resume-date {
+		font-size: .9em;
+	}
 }
 
-@media screen and (mind-width:768) {
-	
+@media screen and (min-width: 1024px) {
+	nav {
+		overflow: auto; 
+		margin: 2%;
+	}
+	.wrapper {
+		width: 45%;
+		margin: 0% 25%; 
+	}
+
+	.top-nav { 
+		display: inline;
+		float: right; 
+	}
 }
