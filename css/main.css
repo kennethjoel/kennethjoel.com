@@ -1,8 +1,10 @@
 /**********
 GENERAL
 **********/
-	html {
-		background-color: #FFFFFF;
+html {
+	font-family: Helvetica, sans-serif;
+	font-size: 1em;
+	overflow-y: scroll;
 	}
 
 	a {
@@ -55,6 +57,10 @@ RESUME
 /**********
 COLOR
 **********/
+	html {
+		background-color: #FFFFFF;
+	}
+
 	a {
 		color: inherit;
 	}
