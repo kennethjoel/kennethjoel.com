@@ -1,0 +1,71 @@
+/**********
+GENERAL
+**********/
+	a {
+		text-decoration: none
+	}
+
+	h1 {
+		font-family: sans-serif; 
+		font-size: 2em;
+		text-transform: uppercase;
+	}
+
+	h2 {
+		font-family: sans-serif; 
+		font-size: 1.5em;
+		text-transform: uppercase; 
+	}
+
+	h3 {
+		font-family: sans-serif; 
+		font-size: 1.1em;
+	}
+
+	.nav-link {
+		margin: 5px;
+	}
+
+	.avatar-container {
+		text-align: center;
+	}
+
+	.avatar {
+		width: 100px; 
+		height: 100px; 
+		border-radius: 100%; 
+		margin: auto;
+	}
+
+/**********
+RESUME
+**********/
+	.skills-wrap {
+		display: block;  
+	}
+
+	.skills { 
+		display: inline-block; 
+		padding: .5%;
+	}
+/**********
+COLOR
+**********/
+
+	a {
+		color: inherit;
+	}
+
+	a:hover {
+		color: #577492;
+	}
+
+	.skills {
+		background-color: white; 
+		color: black;	
+	}
+
+	.contact-info {
+		color: #577492;
+	}
+}
