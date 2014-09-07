@@ -1,26 +1,8 @@
-<DOCTYPE! html> 
-<html>
-<head>
-	<title>Kenneth Joel | Resume</title>
-	<link rel="stylesheet" type="text/css" href="css/normalize.css">
-	<link rel="stylesheet" type="text/css" href="css/main.css">
-	<link rel="stylesheet" type="text/css" href="css/responsive.css"> 
-</head>
-<body>
-	<div class="wrapper">
-		<nav>
-			<div class="top-nav"> 
-				<a class="nav-link" href="index.html">Blog</a> 
-				<a class="nav-link" href="about.html">About</a> 
-				<a class="nav-link" href="resume.html">Resume</a> 
-				<a class="nav-link" href="contact.html">Contact</a> 
-			</div> 
-		</nav>
-
-		<div class="avatar-container">
-			<img class="avatar" src="img/avatar.jpg" alt="Kenneth's Picture">	
-		</div>
-
+<?php
+	$pageTitle = "Resume"; 
+	$sectionTitle = "resume"; 
+	include('inc/header.php');
+?>
 		<h1>Resume</h1> 
 		<div class="skills-wrap">
 			<h2>Skills</h2>
