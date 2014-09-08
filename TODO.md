@@ -1,3 +1,2 @@
-1. Create a footer. 
-2. Implement icons into the Contact and Resume page. 
-3. Experiment with the max-width attribute on the wrapper class on larger displays.
+1. Implement icons into the Contact and Resume page. 
+2. Fix how dates are displayed on lower resolutions on the Resume page. 
