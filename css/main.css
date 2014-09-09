@@ -28,6 +28,10 @@ h3 {
 	font-size: 1.1em;
 }
 
+p {
+	line-height: 1.35em;
+}
+
 footer {
 	clear: left;
 	text-align: center;
@@ -65,6 +69,10 @@ RESUME
 .skill { 
 	display: inline-block; 
 	padding: .5%;
+}
+
+.contact-info {
+	margin-bottom: -.8em;
 }
 /**********
 COLOR

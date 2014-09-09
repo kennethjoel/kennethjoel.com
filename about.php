@@ -12,9 +12,9 @@
 				<h3 class="pull-up">GitHub</h3>
 				<div class="contact-info"><a href="https://github.com/kennyjoel">https://github.com/kennyjoel</a></div>
 			</div> 
-			
+
 			<h1>About</h1> 
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			<p>As you might know by now, my name is Kenneth Joel Ruiz. I'm from a small(ish) town in Texas called Cibolo, but I'm fortunate enough that I've been able to call a handful of places home. I was born in Ft. Benning, Georgia in 1993, but spent my childhood in Arecibo, Puerto Rico. I lived in Puerto Rico for ten years until I moved to the San Antonio area here in Texas. Since living here, I've graduated high school and attended Texas State University-San Marcos for two and a half years. Outside of college, I studied Linux system administration at the Rackspace Open Cloud Academy, and web development as a hobbyist at home.</p>
 		</div>
 	</div>
 </body>

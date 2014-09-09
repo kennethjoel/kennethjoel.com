@@ -48,6 +48,16 @@
 				<h3 class="pull-up">KTSW 89.9 - Radio Host</h3>
 				<div class="resume-date">August 2012 - December 2012</div>
 				<p>During my sophomore year of college, I participated in a semester long internship for the Texas State University radio station, KTSW 89.9. </p>
+
+				<h2>Contact</h2>
+				<div class="contact-wrap">
+					<h3 class="pull-up">Email</h3> 
+					<div class="contact-info">kennyjoelruiz@gmail.com</div>
+					<h3 class="pull-up">LinkedIn</h3>
+					<div class="contact-info"><a href="http://www.linkedin.com/in/kennethjoelruiz">linkedinprofile.com/in/kennethjoelruiz</a></div>
+					<h3 class="pull-up">GitHub</h3>
+					<div class="contact-info"><a href="https://github.com/kennyjoel">https://github.com/kennyjoel</a></div>
+				</div> 
 			</div>
 		</div>
 	</div> 
