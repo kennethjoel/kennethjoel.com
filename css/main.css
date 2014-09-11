@@ -2,7 +2,7 @@
 GENERAL
 **********/
 html {
-	font-family: Helvetica, sans-serif;
+	font-family: Raleway, Helvetica, sans-serif;
 	font-size: 1em;
 	overflow-y: scroll;
 	overflow-x: hidden;
@@ -13,23 +13,25 @@ a {
 }
 
 h1 {
-	font-family: sans-serif; 
+	font-family: Raleway, sans-serif; 
 	font-size: 2em;
-	text-transform: uppercase;
+	font-weight: 500;
+	/*text-transform: uppercase;*/
 }
 
 h2 {
-	font-family: sans-serif; 
+	font-family: Raleway, sans-serif; 
 	font-size: 1.5em;
 	text-transform: uppercase; 
 }
 
 h3 {
-	font-family: sans-serif; 
+	font-family: Raleway, sans-serif; 
 	font-size: 1.1em;
 }
 
 p {
+	font-family: Raleway, sans-serif;
 	line-height: 1.5em;
 }
 
@@ -40,6 +42,10 @@ footer {
 	height: 30px;
 	margin-top: 10px;
 	padding: 2.5px;
+}
+
+.pull-up {
+	margin-bottom: -.1em;
 }
 
 .footer-icon {

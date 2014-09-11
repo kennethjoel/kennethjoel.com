@@ -2,6 +2,7 @@
 	<title>Kenneth Joel | <?php echo $pageTitle; ?></title>
 	<link rel="stylesheet" type="text/css" href="css/normalize.css">
 	<link rel="stylesheet" href="css/themify-icons.css">
+	<link href='http://fonts.googleapis.com/css?family=Raleway:500,400' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/main.css">
 	<link rel="stylesheet" type="text/css" href="css/responsive.css"> 
 </head>
