@@ -27,7 +27,7 @@
 
 			<p>And with that being said, the monologue comes to an end here. I hope you had a decent time reading a little about me, check out the blog for more! Farewell.</p>
 			<div class="avatar-container">
-				<img class="alt-avatar" src="img/mclucius">
+				<img class="alt-avatar" src="img/mclucius.jpg">
 			</div>
 		</div>
 	</div>
