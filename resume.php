@@ -3,7 +3,7 @@
 	$sectionTitle = "resume"; 
 	include('inc/header.php');
 ?>
-			<h1>Resume</h1> 
+			<h1 class="page-title">Resume <span class="off-color">Page</span></h1> 
 			<div class="skills-wrap">
 				<h2>Skills</h2>
 				<div class="skill"><span class="symbol">&hearts;</span> RHEL 6</div>
@@ -23,7 +23,7 @@
 				<div class="skill"><span class="symbol">&clubs;</span> OSHA</div>
 			</div>
 			<div class="first-col">
-				<h2>Education</h2> 
+				<h2 class="resume-header">Education</h2> 
 				<h3 class="pull-up">Rackspace Open Cloud Academy</h3>
 				<div class="resume-date">July 2014 - September 2014</div>
 				<p>During the 2014 summer, I enrolled in a Linux system administration boot camp in San Antonio. It was an intensive 8-week course where I learned to work with Red Hat Enterprise Linux 6, Apache, MySQL, and Rackspace cloud technologies.</p>
@@ -39,7 +39,7 @@
 				<p>These courses are where I first became familiar with technologies such as Java and Flash, and was taught objectives for the CompTIA A+ exam. I was also able to acquire OSHA certification during this time. </p>
 			</div>
 			<div class="second-col">
-				<h2>Experience</h2> 
+				<h2 class="resume-header">Experience</h2> 
 				<h3 class="pull-up">Apple Inc. - Tier 1 Technical Support</h3> 
 				<div class="resume-date">June 2013 - May 2014</div>
 				<p>While attending Texas State University, I worked as a College At-Home Advisor for Apple Inc. As an At-Home Advisor, I provided technical support for all iOS line of products (iPhone, iPad, iPod), and related software (iTunes, iCloud). During this time, I also worked as part of the Account Security team, assisting customers with security issues related to their Apple ID accounts.</p> 
@@ -49,7 +49,7 @@
 				<div class="resume-date">August 2012 - December 2012</div>
 				<p>During my sophomore year of college, I participated in a semester long internship for the Texas State University radio station, KTSW 89.9. </p>
 
-				<h2>Contact</h2>
+				<h2 class="resume-header">Contact</h2>
 				<div class="contact-wrap">
 					<h3 class="pull-up">Email</h3> 
 					<div class="contact-info">kennyjoelruiz@gmail.com</div>

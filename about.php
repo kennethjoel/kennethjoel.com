@@ -3,7 +3,7 @@
 	$sectionTitle = "about"; 
 	include('inc/header.php');
 ?>
-			<h1>About</h1> 
+			<h1 class="page-title">About <span class="off-color">Me</span></h1> 
 			<p>As you might know by now, my name is Kenneth Joel Ruiz. <span class="ti-face-smile"></span></p>
 
 			<p>Cibolo, Texas is the town I would tell you I'm from if you asked, but I've been around a few places. Aside from Texas, I've lived in Puerto Rico for 10 years when I was a youngling. But for the last 10 years and counting, Texas has been home for me. </p>
