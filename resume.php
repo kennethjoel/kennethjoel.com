@@ -18,9 +18,9 @@
 
 			<div class="skills-wrap">
 				<h2>Certifications</h2>
+				<div class="skill"><span class="symbol">&clubs;</span> Red Hat Certified System Administrator</div>
 				<div class="skill"><span class="symbol">&clubs;</span> CompTIA Network+</div>
 				<div class="skill"><span class="symbol">&clubs;</span> CloudU</div>
-				<div class="skill"><span class="symbol">&clubs;</span> OSHA</div>
 			</div>
 			<div class="first-col">
 				<h2 class="resume-header">Education</h2> 
