@@ -47,7 +47,7 @@
 
 				<h3 class="pull-up">KTSW 89.9 - Radio Host</h3>
 				<div class="resume-date">August 2012 - December 2012</div>
-				<p>During my sophomore year of college, I participated in a semester long internship for the Texas State University radio station, KTSW 89.9. </p>
+				<p>During my sophomore year of college, I participated in a semester long internship as a radio host for the Texas State University radio station, KTSW 89.9. </p>
 
 				<h2 class="resume-header">Contact</h2>
 				<div class="contact-wrap">

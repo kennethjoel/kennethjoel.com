@@ -52,6 +52,10 @@ footer {
 	margin-bottom: -.1em;
 }
 
+.pull-up-more {
+	margin-bottom: -.6em;
+}
+
 .footer-icon {
 	display: inline-block;
 	margin-right: 5px;
@@ -78,6 +82,8 @@ footer {
 	border-radius: 20px;
 	margin: auto;
 }
+
+.footer-icon {}
 /**********
 RESUME
 **********/
@@ -118,10 +124,6 @@ h1, h2, h3 {
 
 p {
 	color: #303030;
-}
-
-footer {
-	background-color: #101010;
 }
 
 .off-color {
