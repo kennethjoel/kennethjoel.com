@@ -1,6 +1,6 @@
 <?php
-	$pageTitle = "Blog"; 
-	$sectionTitle = "Dude, that wasn't in the documentation."; 
+	$pageTitle = "Dude, that wasn't in the documentation."; 
+	$sectionTitle = "blog"; 
 	include('inc/header.php');
 ?>
 			<h2 class="pull-up">Dude, that wasn't in documentation.</h2>
