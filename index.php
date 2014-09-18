@@ -15,7 +15,7 @@
 			before. Alright, no problem. I open my search engine of choice, and start digging in.
 			</p>
 			<p>When I have to implement a solution I haven't used before, I do a few things.</p>
-			<a href="first_post.php">Read more...</a>
+			<a href="first_post.php"><span class="off-color">Read more...</span></a>
 
 			<h2 class="pull-up">You get a scrollbar! Everyone gets a scrollbar!</h2> 
 			<div class="resume-date">By: Kenneth Ruiz | September 15th, 2014</div>
@@ -28,7 +28,7 @@
 			</p>
 			<p>On the other hand, I had never written PHP, and I didn't understand what divs were, 
 			or understand the difference between ids and classes.</p>
-			<a href="second_post.php">Read more...</a>
+			<a href="second_post.php"><span class="off-color">Read more...</span></a>
 		</div> 
 	</div>
 </body>
