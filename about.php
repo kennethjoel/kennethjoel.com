@@ -14,16 +14,14 @@
 
 			<p>When I'm not focusing on web development or other miscellaneous studies, I'm tending to my two fantastic kitties, Lucius and Isaac McFinnigan!</p>
 			<div class="avatar-container">
-				Lucius!<span class="ti-arrow-right"></span>
 				<img class="alt-avatar" src="img/lucius.jpg">
 				<img class="alt-avatar" src="img/isaac.jpg">
-				<span class="ti-arrow-left"></span>Isaac!
 			</div>
-			<p>Lucius is a cat that was rescued from the parking lot of a Bucc-ee's travel center when he was just a kitten. Lucius' hobbies include licking blinds, sitting in awkward positions, and chasing flies that sneak into the apartment. Isaac McFinnigan was a cat we took in from a previous owner who could no longer keep him; he was 6 years old when we brough him in. Isaac doesn't have time for a lot of hobbies because he requires 11.9 hours of sleep, and 11.3 hours of being petted. The remaining time is spent doing a combination of both.</p>
+			<p>Lucius is a cat that was rescued from the parking lot of a Bucc-ee's travel center when he was just a kitten. Lucius' hobbies include licking blinds, sitting in awkward positions, and chasing flies that sneak into the apartment. Isaac McFinnigan was a cat we took in from a previous owner who could no longer keep him; he was 6 years old when we brought him in. Isaac doesn't have time for a lot of hobbies because he requires 11.9 hours of sleep, and 11.3 hours of being petted. The remaining time is spent doing a combination of both.</p>
 
 			<p>I've been known to be a collector of hobbies, so the things I spend time doing tend to change from month to month. My most recent interest has been tabletop games. I've been an avid gamer since I could hold a controller, but as I've gotten older it's become difficult to spend more than a couple hours on a single video game. I've found tabletop games to be a great solution for finding a reason to sit in front of a group of people and socialize, have a game or two, but not have it eat up the whole evening if I have other responsibilities that night.</p>
 
-			<p>Overall, I just enjoy learning things. And I don't mean that in a cliche, job-interview-answer kind of way. It's just something I like to do. There's a lot of things I'm good at, and those are the things that I know a lot about. But I'm also ignorant about a lot, and I think that's great. It's great because I have a lot of life left to live and I need to do things to fill all that time, and as long as there's something left for me to learn then there's soemthing left for me to do.</p>
+			<p>Overall, I just enjoy learning things. And I don't mean that in a cliche, job-interview-answer kind of way. It's just something I like to do. There's a lot of things I'm good at, and those are the things that I know a lot about. But I'm also ignorant about a lot, and I think that's great. It's great because I have a lot of life left to live and I need to do things to fill all that time, and as long as there's something left for me to learn then there's something left for me to do.</p>
 
 			<p>And with that being said, the monologue comes to an end here. I hope you had a decent time reading a little about me, check out the blog for more! Farewell.</p>
 			<div class="avatar-container">
