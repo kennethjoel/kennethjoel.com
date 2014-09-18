@@ -43,7 +43,7 @@
 			when something didn't work the way I expected it to.</p>
 			<p>For version control, I use git and GitHub. Team Treehouse also had a learning track for using 
 			version control, so credit goes out to them for teaching me that too.</p>
-
+			<p>Sorry, this blog post is not finished! I promise I will get back to finishing it up soon!</p>
 		</div>
 	</div>
 </body>

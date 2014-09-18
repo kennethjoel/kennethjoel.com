@@ -32,6 +32,7 @@
 			<p>Varnish is responsible for caching web pages from a web server, and it delivers contents from its
 			cache to users who request information from the web page. At least this is my surface level understanding
 			of how it works. </p>
+			<p>Sorry, this blog post is not finished! I promise, I will get back to finishing it up soon!</p>
 		</div>
 	</div>
 </body>
