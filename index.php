@@ -5,7 +5,7 @@
 ?>
 			<h1 class="page-title pull-up-more">Hello, I'm Kenneth <span class="off-color">Joel</span>.</h1>
 			<p class="page-title">I do things with the internet and stuff.</p>
-			<h2 class="pull-up">Dude, that wasn't in documentation.</h2>
+			<h2 class="pull-up">Dude, that wasn't in the documentation.</h2>
 			<div class="resume-date">By: Kenneth Ruiz | September 16th, 2014</div>
 			<p>The last week at Open Cloud is called "System Administration" week, and students are 
 			placed into a faux-ticket-queue and given practice tickets to work. The tickets can range from 
