@@ -7,7 +7,7 @@
 			<div class="skills-wrap">
 				<h2>Skills</h2>
 				<div class="skill"><span class="symbol">&hearts;</span> RHEL 6</div>
-				<div class="skill"><span class="symbol">&hearts;</span> CentOS6</div>
+				<div class="skill"><span class="symbol">&hearts;</span> CentOS 6</div>
 				<div class="skill"><span class="symbol">&hearts;</span> Apache</div>
 				<div class="skill"><span class="symbol">&hearts;</span> MySQL</div>
 				<div class="skill"><span class="symbol">&hearts;</span> PHP</div>
