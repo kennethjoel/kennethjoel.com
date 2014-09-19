@@ -6,7 +6,7 @@
 			<h1 class="page-title pull-up-more">Hello, I'm Kenneth <span class="off-color">Joel</span>.</h1>
 			<p class="page-title">I do things with the internet and stuff.</p>
 			<h2 class="pull-up">Dude, that wasn't in the documentation.</h2>
-			<div class="resume-date">By: Kenneth Ruiz | September 16th, 2014</div>
+			<div class="sub-header">By: Kenneth Ruiz | September 16th, 2014</div>
 			<p>The last week at Open Cloud is called "System Administration" week, and students are 
 			placed into a faux-ticket-queue and given practice tickets to work. The tickets can range from 
 			configuring a mail server to setting up virtual hosts for a web server. The ticket I worked on
@@ -18,7 +18,7 @@
 			<a href="first_post.php"><span class="off-color">Read more...</span></a>
 
 			<h2 class="pull-up">You get a scrollbar! Everyone gets a scrollbar!</h2> 
-			<div class="resume-date">By: Kenneth Ruiz | September 15th, 2014</div>
+			<div class="sub-header">By: Kenneth Ruiz | September 15th, 2014</div>
 			<p>I've been working on this website for a few weeks now. Well, I've been learning
 			about the development process for a couple months, but the website itself has been
 			something I've been working on for a few weeks. This is a project I took on

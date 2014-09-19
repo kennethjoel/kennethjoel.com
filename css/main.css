@@ -48,6 +48,10 @@ footer {
 	margin-bottom: 50px;
 }
 
+.sub-header {
+	font-size: .9em;
+}
+
 .pull-up {
 	margin-bottom: -.1em;
 }

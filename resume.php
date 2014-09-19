@@ -25,12 +25,12 @@
 			<div class="first-col">
 				<h2 class="resume-header">Education</h2> 
 				<h3 class="pull-up">Rackspace Open Cloud Academy</h3>
-				<div class="resume-date">July 2014 - September 2014</div>
+				<div class="sub-header">July 2014 - September 2014</div>
 				<p>During the 2014 summer, I enrolled in a Linux system administration boot camp in San Antonio. It was an intensive 8-week course where I learned to work with Red Hat Enterprise Linux 6, Apache, MySQL, and Rackspace cloud technologies.</p>
 				<p>Course material placed an emphasis on CompTIA Linux+ and Red Hat Certified System Administrator certification objectives. During this time, I had hands-on experience performing administrative tasks such as configuring local storage, creating and configuring file systems, managing users and groups, and deploying and configuring services such as Apache and MySQL.</p>
 				
 				<h3 class="pull-up">Texas State University-San Marcos</h3>
-				<div class="resume-date">August 2011 - May 2014</div> 
+				<div class="sub-header">August 2011 - May 2014</div> 
 				<p>I began my education at Texas State University right after completing high school. I pursued a degree in Computer Science for two years, studying software development in C++ during this time.</p>
 				<p>As a Computer Science student with a minor in Mathematics, I took courses focusing on data structures, object-oriented programming, discrete mathematics, and calculus. These courses have been invaluable in helping me understand fundamental concepts used throughout software development.</p>
 
@@ -41,12 +41,12 @@
 			<div class="second-col">
 				<h2 class="resume-header">Experience</h2> 
 				<h3 class="pull-up">Apple Inc. - Tier 1 Technical Support</h3> 
-				<div class="resume-date">June 2013 - May 2014</div>
+				<div class="sub-header">June 2013 - May 2014</div>
 				<p>While attending Texas State University, I worked as a College At-Home Advisor for Apple Inc. As an At-Home Advisor, I provided technical support for all iOS line of products (iPhone, iPad, iPod), and related software (iTunes, iCloud). During this time, I also worked as part of the Account Security team, assisting customers with security issues related to their Apple ID accounts.</p> 
 				<p>While at Apple, I was awarded the Apple At-Home Advisor College Certificate of Completion for completing the one-year commitment I made to Apple. </p>
 
 				<h3 class="pull-up">KTSW 89.9 - Radio Host</h3>
-				<div class="resume-date">August 2012 - December 2012</div>
+				<div class="sub-header">August 2012 - December 2012</div>
 				<p>During my sophomore year of college, I participated in a semester long internship as a radio host for the Texas State University radio station, KTSW 89.9. </p>
 
 				<h2 class="resume-header">Contact</h2>

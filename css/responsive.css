@@ -22,10 +22,6 @@
 		display: inline-block;
 		width: 45%; 
 	}
-
-	.resume-date {
-		font-size: .9em;
-	}
 }
 
 @media screen and (min-width: 1024px) {
