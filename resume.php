@@ -56,7 +56,7 @@
 					<h3 class="pull-up">LinkedIn</h3>
 					<div class="contact-info"><a href="http://www.linkedin.com/in/kennethjoelruiz">linkedinprofile.com/in/kennethjoelruiz</a></div>
 					<h3 class="pull-up">GitHub</h3>
-					<div class="contact-info"><a href="https://github.com/kennethjoel">https://github.com/kennyjoel</a></div>
+					<div class="contact-info"><a href="https://github.com/kennethjoel">https://github.com/kennethjoel</a></div>
 				</div> 
 			</div>
 		</div>
