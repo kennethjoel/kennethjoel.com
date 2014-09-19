@@ -12,9 +12,9 @@
 		<div class="wrapper">
 			<nav>
 				<div class="top-nav"> 
-					<a class="nav-link" href="index.php">Blog</a> 
-					<a class="nav-link" href="about.php">About</a> 
-					<a class="nav-link" href="resume.php">Resume</a> 
+					<a class="nav-link <?php if ($sectionTitle == "blog") {echo "off-color";} ?>" href="index.php">Blog</a> 
+					<a class="nav-link <?php if ($sectionTitle == "about") {echo "off-color";} ?>" href="about.php">About</a> 
+					<a class="nav-link <?php if ($sectionTitle == "resume") {echo "off-color";} ?>" href="resume.php">Resume</a> 
 				</div> 
 			</nav>
 			
