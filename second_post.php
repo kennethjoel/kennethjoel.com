@@ -19,26 +19,26 @@
 			importantly, I'm going to tell you why each page on my website has a scrollbar, and why
 			I still have a lot more to learn.</p>
 			<p>I started learning web development from a website called Team Treehouse. There's a
-			monthly/yearly subscription for using their learning resources, but it's been well worth
+			monthly/yearly subscription for using their learning resources, but it has been well worth
 			the expense thus far. There's a lot of similar websites out there (Codecademy, Code School). 
-			And I can't recommend Team Treehouse over any other learning resource, it's just what I 
-			went with, so take that for what it is. Using their "learning tracks", it's how I've learned 
+			And I can't really recommend Team Treehouse over any other learning resource, it's just what I 
+			went with, so take that for what it is. Using their "learning tracks", I've learned 
 			all the web development skills (HTML, CSS, PHP) I have, and some more. I'm still using their
-			website at the time of this post to get a deeper understanding of MySQL, so I can develop the
+			website at the time of this post to get a deeper understanding of MySQL, so I can later develop the
 			back end of this website.</p>
 			<p><span class="off-color">Fun fact</span>: As of right now (September 2014), blog posts are being hard-coded into this
-			website. Meaning log posts aren't being stored and retrieved from a database, but that's
+			website. Meaning blog posts aren't being stored and retrieved from a database. But that's
 			what I'm working on accomplishing next. That's going to take some time for me to implement, 
 			but I'd like there the be some content on the website, so writing posts in an HTML document
 			will have to suffice for now.</p>
 			<p><span class="off-color">Fun Fact II</span>: Also as of right now, my website isn't even being
 			hosted online. I haven't even paid for a domain name as of right now because, again, I wanted
-			there to be some content on the website before deploying.</p>
-			<p>I'm using Apache as my web-server application. I've used Nginx in the past, but I chose Apache
+			there to be some content on the website before launching.</p>
+			<p>I'm using Apache as the web-server application for the website. I've used Nginx in the past, but I chose Apache
 			just because it's the most familiar to me. At the time of writing this, I'm attending a Linux
 			system administration school called the Rackspace Open Cloud Academy. This is where I've gained
-			most of my foundational technical skills and learned how to configure things like Apache and MySQL.
-			When I develop from home, I develop on a virtual machine deployed using Vagrant and VirtualBox. I learned 
+			most of the foundational technical skills I have and learned how to configure things like Apache and MySQL.
+			When I develop from home, I develop on a virtual machine using Vagrant and VirtualBox. I learned 
 			how to use Vagrant the old-fashioned way- reading the documentation and rolling my face across the keyboard
 			when something didn't work the way I expected it to.</p>
 			<p>For version control, I use git and GitHub. Team Treehouse also had a learning track for using 
