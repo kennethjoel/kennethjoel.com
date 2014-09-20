@@ -42,8 +42,34 @@
 			how to use Vagrant the old-fashioned way- reading the documentation and rolling my face across the keyboard
 			when something didn't work the way I expected it to.</p>
 			<p>For version control, I use git and GitHub. Team Treehouse also had a learning track for using 
-			version control, so credit goes out to them for teaching me that too.</p>
-			<p>Sorry, this blog post is not finished! I promise I will get back to finishing it up soon!</p>
+			version control, so credit goes out to them for teaching me that too. I plan on using git to manage
+			my deployments once the website does launch, but we'll see how that pans out in the future. It feels like 
+			a whole lot has gone into making this website when I sit down and think about it, and there is some 
+			truth to that, there has to be. But looking forward, I see a whole lot of improvements that could be made.
+			Some of these improvements are things I'm not even convinced need to be made, but that I would like to
+			make for the sake of gaining knowledge from having done them.</p>
+			<p>On my website (as of now), each page has a scrollbar. Each page will have a scrollbar regardless
+			of whether or not there's content to actually scroll up and down to. You see, when I first started making the
+			website, the pages varied in length. For example, while it doesn't exist now, I used to have a page 
+			dedicated contacting me. That page has since been merged into the Resume page, but when it existed,
+			that page just had three lines worth of content. On the other hand, the Resume page had a lot of content. 
+			And back then, when you went from the Resume page to the Contact page, all the elements on the webpage would
+			shift left (or right depending on which page you were going to).</p>
+
+			<p>This was a problem that puzzled me for a long time. I spent at least a couple hours staring at the CSS 
+			for the website, wondering what could be causing such a strange issue. I was convinced that there was an issue with the margins or padding on the navigation elements at the top of the screen, but couldn't figure out what it was.
+			I was at a dead end. I showed a friend the issue I was having. He didn't even have web developement 
+			experience, but I needed someone to dump all the frustration on and I was desperate. Mostly just desperate.</p>
+
+			<p>He doesn't even look at the code. He just sees the issue I'm describing and goes "It's the scrollbars."
+			I didn't even understand what he meant because I was so convinced there was an issue with the actual code I wrote.</p>
+
+			<p>As it turns out, the scrollbars on the side of a webpage can, and will, shift your content to make room for their
+			existence. And I'm not sure if I would have came to that conclusion without help. I struggled to find what I 
+			consider to be an elegant solution to that problem. I'm positive there's one out there, and I'm sure it's simple
+			to implement. But I was so tired of staring at such a (what was to me) a glaring issue, that I decided...</p>
+
+			<p>Screw it. For now, all the webpages are getting scrollbars.</p>
 		</div>
 	</div>
 </body>
