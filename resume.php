@@ -3,7 +3,7 @@
 	$sectionTitle = "resume"; 
 	include('inc/header.php');
 ?>
-			<h1 class="page-title content-separator">Resume <span class="off-color">Page</span></h1> 
+			<h1 class="page-title">The <span class="off-color">Resume</span></h1> 
 			<div class="resume-skills-wrap">
 				<h2 class="resume-header">Skills</h2>
 				<div class="resume-skill"><span class="ti-heart symbol"></span> RHEL 6</div>
