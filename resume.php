@@ -7,7 +7,6 @@
 			<div class="resume-skills-wrap">
 				<h2 class="resume-header">Skills</h2>
 				<div class="resume-skill"><span class="ti-heart symbol"></span> RHEL 6</div>
-				<div class="resume-skill"><span class="ti-heart symbol"></span> CentOS 6</div>
 				<div class="resume-skill"><span class="ti-heart symbol"></span> Apache</div>
 				<div class="resume-skill"><span class="ti-heart symbol"></span> MySQL</div>
 				<div class="resume-skill"><span class="ti-heart symbol"></span> PHP</div>

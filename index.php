@@ -3,7 +3,7 @@
 	$sectionTitle = "blog"; 
 	include('inc/header.php');
 ?>
-			<h1 class="page-title pull-up-more">Hello, I'm Kenneth <span class="off-color">Joel</span>.</h1>
+			<h1 class="page-title pull-up-more">Hello, I'm <span class="off-color">Kenneth</span>.</h1>
 			<p class="content-separator page-title">I do things with the internet and stuff.</p>
 			<h2 class="pull-up">Dude, that wasn't in the documentation.</h2>
 			<div class="sub-header">By: Kenneth Ruiz | September 16th, 2014</div>
