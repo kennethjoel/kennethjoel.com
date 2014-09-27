@@ -6,20 +6,20 @@
 			<h1 class="page-title content-separator">Resume <span class="off-color">Page</span></h1> 
 			<div class="resume-skills-wrap">
 				<h2 class="resume-header">Skills</h2>
-				<div class="resume-skill"><span class="symbol">&hearts;</span> RHEL 6</div>
-				<div class="resume-skill"><span class="symbol">&hearts;</span> CentOS 6</div>
-				<div class="resume-skill"><span class="symbol">&hearts;</span> Apache</div>
-				<div class="resume-skill"><span class="symbol">&hearts;</span> MySQL</div>
-				<div class="resume-skill"><span class="symbol">&hearts;</span> PHP</div>
-				<div class="resume-skill"><span class="symbol">&hearts;</span> HTML</div>
-				<div class="resume-skill"><span class="symbol">&hearts;</span> CSS</div>
-				<div class="resume-skill"><span class="symbol">&hearts;</span> Git</div>
+				<div class="resume-skill"><span class="ti-heart symbol"></span> RHEL 6</div>
+				<div class="resume-skill"><span class="ti-heart symbol"></span> CentOS 6</div>
+				<div class="resume-skill"><span class="ti-heart symbol"></span> Apache</div>
+				<div class="resume-skill"><span class="ti-heart symbol"></span> MySQL</div>
+				<div class="resume-skill"><span class="ti-heart symbol"></span> PHP</div>
+				<div class="resume-skill"><span class="ti-heart symbol"></span> HTML</div>
+				<div class="resume-skill"><span class="ti-heart symbol"></span> CSS</div>
+				<div class="resume-skill"><span class="ti-heart symbol"></span> Git</div>
 			</div>
 			<div class="resume-skills-wrap">
 				<h2 class="resume-header">Certifications</h2>
-				<div class="resume-skill"><span class="symbol">&clubs;</span> Red Hat Certified System Administrator</div>
-				<div class="resume-skill"><span class="symbol">&clubs;</span> CompTIA Network+</div>
-				<div class="resume-skill"><span class="symbol">&clubs;</span> CloudU</div>
+				<div class="resume-skill"><span class="ti-medall symbol"></span> Red Hat Certified System Administrator</div>
+				<div class="resume-skill"><span class="ti-medall symbol"></span> CompTIA Network+</div>
+				<div class="resume-skill"><span class="ti-medall symbol"></span> CloudU</div>
 			</div>
 			<div class="resume-first-col">
 				<h2 class="resume-header">Education</h2> 
