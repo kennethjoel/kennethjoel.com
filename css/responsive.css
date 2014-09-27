@@ -12,22 +12,22 @@
 	/**********
 	RESUME
 	**********/
-	.first-col {
+	.resume-first-col {
 		float: left; 
 		width: 45%;  
 		margin-right: 8%;
 	}
 
-	.second-col { 
+	.resume-second-col { 
 		display: inline-block;
 		width: 45%; 
 	}
 
-	.skills-wrap {
+	.resume-skills-wrap {
 		display: block;  
 	}
 
-	.skill { 
+	.resume-skill { 
 		display: inline-block; 
 		padding: .5%;
 	}
