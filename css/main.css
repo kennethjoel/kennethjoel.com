@@ -65,8 +65,15 @@ footer {
 	margin-right: 5px;
 }
 
+.top-nav {
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
 .nav-link {
 	margin: 5px;
+	text-transform: uppercase;
+	letter-spacing: 2px;
 }
 
 .avatar-container {
