@@ -22,6 +22,15 @@
 		display: inline-block;
 		width: 45%; 
 	}
+
+	.skills-wrap {
+		display: block;  
+	}
+
+	.skill { 
+		display: inline-block; 
+		padding: .5%;
+	}
 }
 
 @media screen and (min-width: 1024px) {

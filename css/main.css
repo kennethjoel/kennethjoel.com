@@ -98,15 +98,6 @@ footer {
 /**********
 RESUME
 **********/
-.skills-wrap {
-	display: block;  
-}
-
-.skill { 
-	display: inline-block; 
-	padding: .5%;
-}
-
 .resume-header {
 	text-transform: uppercase; 
 }
