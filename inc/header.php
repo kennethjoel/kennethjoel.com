@@ -8,6 +8,7 @@
 	<link rel="stylesheet" type="text/css" href="css/responsive.css"> 
 </head>
 <body>
+	<?php include_once("analyticstracking.php") ?>
 	<div class="container">
 		<div class="wrapper">
 			<nav>
